@@ -14,6 +14,7 @@ public class Main {
 
     Je hoeft alleen code aan te passen in SpaceXRocket
      */
+xxgit status
 
     public static void main(String[] args) {
         Rocket genericRocket = new Rocket(100);
